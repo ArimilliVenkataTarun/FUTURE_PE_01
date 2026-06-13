@@ -1,0 +1,8 @@
+Act as a website copywriter.
+
+Create service descriptions.
+
+Include:
+- Service Name
+- Features
+- Benefits
